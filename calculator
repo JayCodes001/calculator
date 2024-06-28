@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing page</title>
+    <link rel="stylesheet" href="landing.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <header>
+        <Div class="header"> 
+            <img src="Logo.jpg" alt="Logo">
+            
+            <Div class="Name">
+                Landing page
+                <input type="submit" value="Login">
+                <input type="submit" placeholder="signup" name="signup" value="sign up">
+                </Div>
+                <div class="Tag">
+                    <div class="search" >
+                    <input type="text" placeholder="Search" ><i class="fa-solid fa-magnifying-glass"></i>
+                    
+                    </div>
+                    <i class="fa-solid fa-bars"></i>
+                    <a href="#">Home</a>
+                    <a href="#">Blog</a>
+                    <a href="#">Page</a>
+                    <a href="#">service</a>
+                    <a href="#">Testmonilas</a>
+                    <a href="#">Contact</a>
+                    <a href="#">Buy Now</a>
+            </div>
+            </Div>
+            <div id="background">
+                <img src="background.jpg" alt="background">
+            </div>
+    </header>
+    <div class="text">
+        <p>We are Creative</p>
+        <p class="text2">Creative digital agencytive digital agency</p>
+        <P class="text3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi iste eius porro delectus quos quia commodi saepe et dolorem ex sunt libero, voluptatum atque. Culpa ullam obcaecati sequi! Expedita, nisi.</P>
+        <p><input type="submit" name="read more" id="read" value="Read more">
+        <input type="submit" name="Request to consult" id="read1" value="Request to consult">
+         </p>
+         <div class="summary">
+            <p class="summary1"><i class="fa-solid fa-rocket"></i>launch business
+                <p class="summary2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem inventore quidem ducimus! .</p>
+            </p>
+            <p class="summary1"><i class="fa-solid fa-headset"></i>Online support team
+                <p class="summary2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem inventore quidem ducimus! .</p>
+            <p class="summary1"><i class="fa-regular fa-clock"></i>Time magement
+                <p class="summary2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem inventore quidem ducimus! .  </p>
+            </p>
+        </div> 
+        <div class="About">
+            <p class="description">About us</p>
+            <p class="description1">5 year  we passing</p>
+              <p class="description2">What is landing page design and why is it important?</p>
+              <p class="description3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia nobis praesentium debitis temporibus! Esse ratione culpa error optio? Quisquam similique quas asperiores! Doloribus nobis voluptatem, id dele Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt sequi eius beatae! Suscipit, nulla dolor dolorum alias ex tempore maiores sed neque illo blanditiis ea in commodi libero corrupti eius. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae est suscipit quibusdam laboriosam assumenda eius blanditiis, obcaecati aspernatur reiciendis ratione alias? Id repellat tenetur quas laboriosam ad sunt quasi at! Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi qui sequi repellendus odio sint consequuntur quibusdam delectus consequatur accusantium soluta autem provident 
+                  <input value="Read more" type="button">
+                  <img src="desciption.jpg" alt="img">
+              </p>
+         </div>
+         <div class="service">Our service</div>
+         <p class="service1">
+            <img src="service.jpg" alt="food">
+            <input value="User exprieance" type="submit">
+            <img src="service1.jpg" alt="food">
+            <input value="User exprieance" type="submit">
+            <img src="service2.jpg" alt="food">
+            <input value="User exprieance" type="submit">
+
+         </p>
+    </div>
+    
+</body>
+</html>

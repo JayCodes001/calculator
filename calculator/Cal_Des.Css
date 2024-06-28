@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+
+
+html , body{
+    height: auto;
+    width: auto;
+    margin: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    background-color: #366379;
+    
+}
+.Name{
+    height: auto;
+    width: auto;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Normal;
+}
+.Display{
+    color: #22a0df;
+    border-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: large;
+}
+.container{
+    
+    color: #000;
+    position: relative;
+    margin: 1px;
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    padding: 3px;
+    position: relative;
+    left: 900px;
+    top: 100px;
+    text-align: center;
+}
+.container1{
+    background-color: #22a0df;
+    color: #000;
+    font-size: large;
+    height: 55px;
+    width: 55px;
+    border-radius: 15px;
+}
